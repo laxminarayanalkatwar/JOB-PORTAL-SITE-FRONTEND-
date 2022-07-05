@@ -1,0 +1,29 @@
+*{
+    color: black;
+    font-family:inherit;    
+}
+
+.post{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.A{
+    width: 400px;
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 400px;
+    border: 1px solid black;
+    border-radius: 0.5px;
+    display: block;
+    cursor: pointer;
+}
+ .btnn{
+    background-color:  yellow;
+    border: 0.5px solid black;
+    padding: 5px   25px;
+    margin-left: 550px;
+    margin-top: 20px;
+    cursor: pointer;
+      
+}
+ 

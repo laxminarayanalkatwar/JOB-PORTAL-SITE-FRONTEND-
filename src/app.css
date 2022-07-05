@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+  }
+  
+  body {
+    background: white;
+  }
+  
+  .App {
+    text-align: center;
+    margin-top: 70px;
+    color: rgb(185, 185, 182);
+  }
+  
+  .h1 {
+    align-items: center;
+    color: rgb(0, 0, 0);
+  }
+  .kit {
+    color: rgb(185, 185, 182);
+  }
+  
+  .email {
+    margin-top: 40px;
+    margin-left: 45px;
+    margin-right: 600px;
+  }
+  .h5 {
+    margin-left: 50px;
+  }
+  .form-control {
+    margin-left: 330px;
+  }
+  .pass {
+    margin-left: 378px;
+    width: 720px;
+  }
+  .footer {
+    margin-left: 50px;
+    margin-top: -30px;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  .col-4{
+    margin-top: 50px;
+   padding-left: 50px;
+   /* margin-left: 10px; */
+  }
+  .title{
+    margin-left: 550px;
+    margin-top: 30px;
+  }
+  .k{
+    margin-left: 560px;
+    margin-top: 10px;
+  }
+
+  .company{
+    align-items: center;
+    padding-left: 30px;
+  }
+
+  .z{
+    color:  blue;
+  }
+  .row-1{
+    padding-top: 30px;
+    padding-left: 90px;
+    cursor: pointer;
+  }
+
+  .row-2{
+    padding-left: 10px;
+    padding-top: 0px;
+    color: yellow;
+  }
+  .headline{
+    color:  white;
+    padding-left: 2px;
+
+  }
