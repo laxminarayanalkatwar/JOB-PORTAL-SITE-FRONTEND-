@@ -45,17 +45,27 @@ login with the Credentials <br>
 **password** - 1234
 
 
-![Login Page]Screenshot (3).png
-Screenshot (3).png
 
-
-
-
+![Login Page ](https://user-images.githubusercontent.com/92374663/177484893-09dc69ca-b443-4eba-9add-f1466e4085c9.png)
 
 
 **STEP 2**
 
-- Add Items to Cart
+- Home Page
+   -Post Job 
+   -Avaiable JOb
+   -Signin
+   -About
+   
+   ![Home Page ](https://user-images.githubusercontent.com/92374663/177484896-5bbc5a74-58ad-4fb5-b1e8-99dbb4618eba.png)
+ 
+ **STEP 3**
+ 
+ -Post Job
+ 
+ ![Post Job ](https://user-images.githubusercontent.com/92374663/177484887-03814b95-cdf1-4be6-9fbe-f623b8322c99.png)
+ 
+ 
 
 
 
