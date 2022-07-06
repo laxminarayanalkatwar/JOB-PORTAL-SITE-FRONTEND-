@@ -1,7 +1,5 @@
 # JOB-PORTAL-SITE-FRONTEND-
 
-# JOB-PORTAL-SITE-FRONTEND-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
