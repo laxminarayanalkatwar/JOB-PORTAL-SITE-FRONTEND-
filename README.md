@@ -46,9 +46,10 @@ login with the Credentials <br>
 
 
 ![Login Page]Screenshot (3).png
+Screenshot (3).png
 
 
-![Map](https://user-images.githubusercontent.com/92374663/155593812-1816cd26-a1e4-4a02-9291-c6c0816adcd6.png)
+
 
 
 
@@ -56,7 +57,6 @@ login with the Credentials <br>
 
 - Add Items to Cart
 
-![Chart](https://user-images.githubusercontent.com/92374663/155593300-bf1e10b9-e762-42dd-a5b5-ccaa0beec511.png)
 
 
 
