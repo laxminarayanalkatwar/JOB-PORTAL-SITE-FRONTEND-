@@ -66,6 +66,11 @@ login with the Credentials <br>
  ![Post Job ](https://user-images.githubusercontent.com/92374663/177484887-03814b95-cdf1-4be6-9fbe-f623b8322c99.png)
  
  
+  **STEP 4**
+ - Apply For Job
+ 
+ ![Availble JOb](https://user-images.githubusercontent.com/92374663/177485780-e8532a75-935d-490b-bbac-34d4205fdd1d.png)
+ 
 
 
 
